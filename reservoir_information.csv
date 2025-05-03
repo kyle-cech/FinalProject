@@ -1,0 +1,22 @@
+Reservoir abbreviation,Reservoir,Type,Stratification,Year,Latitude,Longitude,Watershed,Forest,Surface,Storage volume,Max depth,Mean depth,Zmean:Zmax
+,Name,,,filled,decimal,decimal,area km2,% (0-1),area km2,106 m3,meters,meters,
+BHR, Buckhorn Lake,Forest,Strong,1961,37.3386,-83.4707,1072,0.843,5,1.6,16.7,1.4,0.0838
+BRR, Barren River Lake,Ag,Strong,1964,36.892,-86.1225,1500,0.385,39,15.4,16.7,2.2,0.1317
+BVR, Brookville Lake,Ag,Strong,1974,39.4428,-85.0001,1031,0.225,21,33.8,31.9,8.8,0.2759
+CBR, C. J. Brown Lake,Ag,None,1975,39.9485,-83.7459,225,0.087,8,7.2,10.3,4.8,0.466
+CCK, Caesar Creek Lake,Ag,Strong,1978,39.4858,-84.0602,643,0.13,11,21.9,31,11,0.3548
+CFK, Carr Creek Lake,Forest,Strong,1976,37.2289,-83.0325,153,0.763,2,3.8,20,9.6,0.48
+CHL, C. M. Harden Lake,Ag,Weak,1961,39.7195,-87.0716,588,0.129,8,3.8,16.4,2.5,0.1524
+CMR, Cagles Mill Lake,Ag,Weak,1953,39.4872,-86.9149,796,0.225,6,6.3,10.9,6.1,0.5596
+CRR, Cave Run Lake,Forest,Strong,1974,38.1183,-83.5304,2186,0.783,31,41,21.8,7,0.3211
+EFR, East Fork Lake,Ag,Strong,1978,39.0215,-84.1519,882,0.278,8,19.2,32.8,12.7,0.3872
+GRR, Green River Lake,Ag,Strong,1969,37.2508,-85.3381,1797,0.608,33,38,23.4,6.3,0.2692
+HTR, J. E. Roush Lake,Ag,None,1969,40.8465,-85.4675,1778,0.066,3,1,6.6,1.4,0.2121
+MNR, Monroe Lake,For,Strong,1966,39.008,-86.5153,1166,0.819,43,42.6,15.4,5.3,0.3442
+MSR, Mississinewa Lake,Ag,None,1968,40.7143,-85.9561,347,0.14,13,5.4,18.5,2.4,0.1297
+NRR, Nolin Lake,Ag,Weak,1964,37.2792,-86.2469,1582,0.456,23,14.9,24,3.8,0.1583
+PRR, Patoka Lake,Forest,Strong,1979,38.434,-86.7046,448,0.67,35,35.8,12.7,5.3,0.4173
+RRR, Rough River Lake,Ag,Strong,1961,37.6183,-86.4997,1127,0.505,20,7,18.5,2,0.1081
+SRR, Salamonie Lake,Ag,None,1974,40.8069,-85.6772,1473,0.092,11,2.6,17.6,1.3,0.0739
+TAR, Taylorsville Lake,Ag,Strong,1983,38.0028,-85.3057,939,0.449,12,18.8,21.5,8.7,0.4047
+WFR, West Fork Lake,Urban,None,1953,39.2607,-84.4975,98,0.007,1,0.4,3.6,2.6,0.7429
